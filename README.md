@@ -1,3 +1,5 @@
+[![Publish Docker image](https://github.com/Dontosh/spring-docker-dockerhub/actions/workflows/verify.yml/badge.svg)](https://github.com/Dontosh/spring-docker-dockerhub/actions/workflows/verify.yml)
+
 # Docker med Spring boot, Docker hub & AWS ECR 
 
 ## Beskrivelse
